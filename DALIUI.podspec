@@ -28,9 +28,10 @@ As DALI Lab members there are various UI elements which our designers commonly i
   s.source           = { :git => 'https://github.com/dali-lab/iOS-DALIUI.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '11.0'
 
   s.source_files = 'DALIUI/Classes/**/*'
+  s.swift_version = '4.0'
   
   # s.resource_bundles = {
   #   'DALIUI' => ['DALIUI/Assets/*.png']
