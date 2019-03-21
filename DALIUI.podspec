@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 As DALI Lab members there are various UI elements which our designers commonly include in their designs. This is a bunch of typical UI tools we use all the time and want to share with all of you!
                        DESC
 
-  s.homepage         = 'https://github.com/johnlev/DALIUI'
+  s.homepage         = 'https://github.com/dali-lab/iOS-DALIUI'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'johnlev' => 'john.lyme@mac.com' }
-  s.source           = { :git => 'https://github.com/johnlev/DALIUI.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/dali-lab/iOS-DALIUI.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
