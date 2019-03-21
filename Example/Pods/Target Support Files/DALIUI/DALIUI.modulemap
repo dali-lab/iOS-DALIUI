@@ -1,0 +1,6 @@
+framework module DALIUI {
+  umbrella header "DALIUI-umbrella.h"
+
+  export *
+  module * { export * }
+}

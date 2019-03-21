@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'DALIUI'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of DALIUI.'
+  s.summary          = 'A bunch of great UI tools for classic DALI design styles'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+As DALI Lab members there are various UI elements which our designers commonly include in their designs. This is a bunch of typical UI tools we use all the time and want to share with all of you!
                        DESC
 
   s.homepage         = 'https://github.com/johnlev/DALIUI'
@@ -37,6 +37,6 @@ TODO: Add long description of the pod here.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+  s.frameworks = 'UIKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
