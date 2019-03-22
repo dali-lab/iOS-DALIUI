@@ -1,6 +1,6 @@
 # DALIUI
 
-[![CI Status](https://img.shields.io/travis/johnlev/DALIUI.svg?style=flat)](https://travis-ci.org/johnlev/DALIUI)
+[![Build Status](https://travis-ci.org/dali-lab/iOS-DALIUI.svg?branch=master)](https://travis-ci.org/dali-lab/iOS-DALIUI)
 [![Version](https://img.shields.io/cocoapods/v/DALIUI.svg?style=flat)](https://cocoapods.org/pods/DALIUI)
 [![License](https://img.shields.io/cocoapods/l/DALIUI.svg?style=flat)](https://cocoapods.org/pods/DALIUI)
 [![Platform](https://img.shields.io/cocoapods/p/DALIUI.svg?style=flat)](https://cocoapods.org/pods/DALIUI)
